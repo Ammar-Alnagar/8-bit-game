@@ -15,8 +15,8 @@ import javax.swing.JFrame;
  */
 public class Window
 {
-        public static final int WIDTH = 1000;
-	public static final int HEIGHT = 563;
+        public static final int WIDTH = 1200;
+	public static final int HEIGHT = 580;
      //   public static final String operatingSystem = System.getProperty("os.name");
 	public static int hp = 50;
 	public static int ammo = 30;
